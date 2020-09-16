@@ -1,10 +1,16 @@
 # leaflet-challenge
-leaflet-challenge
 
-Due to security reasons, the Config File with the API key is not uploaded in this assignment. In order to properly run the application, follow the steps below:
+###This project is intended to portray the locations where earthquake happened in all months and magnitudes.
+###Data is extracted from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson)
+
+Due to security reasons, the Config File with the API key is not uploaded in this assignment. In order to properly run this application, follow the steps below:
 
 Make sure to create an Mapbox token (API_KEY) and insert under statis/js/ directory, and add a file called config.js with the API key in it.
 Config File content should have:
 
-// API key
-var API_KEY = "Your code here!"
+ **// API key**
+  **var API_KEY = "Your code here!"**
+
+Download the content of this repo and after adding the proper config.js into the directory indicated, make sure to run the http server on your local machine.
+
+Enjoy the visual!
