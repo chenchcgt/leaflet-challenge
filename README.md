@@ -1,7 +1,7 @@
 # leaflet-challenge
 
-### This project is intended to portray the locations where earthquake happened in all months and magnitudes.
-### Data is extracted from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson)
+### This project is intended to demonstrate the locations where earthquake happened in all continents, with data for all magnitudes and months.
+
 
 Due to security reasons, the Config File with the API key is not uploaded in this assignment. In order to properly run this application, follow the steps below:
 
@@ -14,3 +14,5 @@ Config File content should have:
 Download the content of this repo and after adding the proper config.js into the directory indicated, make sure to run the http server on your local machine.
 
 Enjoy the visual!
+
+> Refer to (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson) for data extraction information
