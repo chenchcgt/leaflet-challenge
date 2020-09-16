@@ -1,7 +1,7 @@
 # leaflet-challenge
 
-###This project is intended to portray the locations where earthquake happened in all months and magnitudes.
-###Data is extracted from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson)
+### This project is intended to portray the locations where earthquake happened in all months and magnitudes.
+### Data is extracted from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson)
 
 Due to security reasons, the Config File with the API key is not uploaded in this assignment. In order to properly run this application, follow the steps below:
 
