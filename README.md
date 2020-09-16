@@ -9,6 +9,7 @@ Due to security reasons, the Config File with the API key is not uploaded in thi
 Config File content should contain:
 
 // API key
+
 var API_KEY = "Your code here!"
 
 * Download the content of this repo and after adding the proper config.js into the directory indicated, make sure to run the http server on your local machine.
