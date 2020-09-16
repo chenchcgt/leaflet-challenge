@@ -93,7 +93,6 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geo
           '<i class="circle" style="background:' + color + '"></i> ' +
           (categories[i] ? categories[i] : '+'));
 
-
     }
     div.innerHTML = labels.join('<br>');
     return div;
